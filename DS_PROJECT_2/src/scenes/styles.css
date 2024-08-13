@@ -1,0 +1,67 @@
+.button {
+	-fx-font-size: 13;
+	-fx-font-weight: bold;
+	-fx-font-family: 'Cambria';
+	-fx-background-color: #fca503;
+	-fx-text-fill: white;
+}
+
+.text-field {
+	-fx-font-size: 14;
+	-fx-font-family: 'Cambria';
+}
+
+.text-area {
+	-fx-font-size: 14;
+	-fx-font-family: 'Cambria';
+}
+
+.label {
+	-fx-font-size: 14;
+	-fx-font-family: 'Cambria';
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.menu-bar {
+	-fx-background-color: #332e59;
+}
+
+.menu {
+	-fx-background-color: #795458;
+}
+
+.menu-item {
+	-fx-background-color: orange;
+}
+
+.tab {
+	-fx-font-size: 13;
+	-fx-font-family: 'Cambria';
+	-fx-font-weight: bold;
+}
+
+.tab-pane {
+	-fx-background-color: #453F78;
+}
+
+.combo-box {
+	-fx-font-size: 13;
+	-fx-font-family: 'Cambria';
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #C08B5C;
+}
+
+.title {
+	-fx-font-size: 28;
+	-fx-font-family: 'Cambria';
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #332e59;
+}
+
+
+
+
+
